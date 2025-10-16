@@ -23,4 +23,4 @@ This Python script is designed for DevOps engineers, sysadmins, and automation e
 
 3. Run the Python script
    ```bash
-    python3 playbook_creator
+    python3 playbook_creator.py
